@@ -69,6 +69,6 @@ Contributions bienvenues : ouvrez une issue pour discuter d'une fonctionnalité 
 
 ## Contact
 
-Pour toute question, consultez les informations du dépôt ou ouvrez une issue.
-Discord : nakken_
----
+- Pour toute question, consultez les informations du dépôt ou ouvrez une issue.
+- Discord : nakken_
+
