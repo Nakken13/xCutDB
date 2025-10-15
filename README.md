@@ -66,19 +66,9 @@ Si vous avez `grosse_base.txt` et que vous entrez `100000` lignes par fichier, l
 
 Contributions bienvenues : ouvrez une issue pour discuter d'une fonctionnalité ou d'un bug, puis soumettez une PR.
 
-## Licence
-
-Ajoutez ici la licence que vous souhaitez (par exemple MIT). Si aucune licence n'est fournie, le dépôt n'est pas explicitement ouvert.
 
 ## Contact
 
 Pour toute question, consultez les informations du dépôt ou ouvrez une issue.
-
+Discord : nakken_
 ---
-
-Souhaitez-vous que j'ajoute :
-
-- une version en ligne de commande (CLI) pour découper sans interface ?
-- des tests unitaires basiques (+ un `pytest` simple) ?
-- un `start.bat` amélioré qui accepte des arguments ?
-
